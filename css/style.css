@@ -1,0 +1,28 @@
+  body {
+  margin: 0;
+  padding: 0;
+  background-color:#efefef;
+  font-size: 18px;
+}
+.container {
+  width: 514px;
+  
+  margin: 0 auto;
+  padding: 10px;
+  margin-bottom: 45px;
+  background-color:white;
+}
+
+h2,
+.image-holder {
+  text-align: center;
+}
+
+.image-holder img {
+  border-radius: 20px;
+  box-shadow: 0 10px 20px #444;
+}
+
+p {
+    padding-left:30px 
+}
